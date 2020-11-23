@@ -1,4 +1,6 @@
-### Hi there 👋
+### Welcome to my profile!
+
+I am currently a Computer Science undergraduate, second year at Babes-Bolyai University Cluj-Napoca.
 
 <!--
 **spathula/spathula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
