@@ -1,18 +1,20 @@
-### Welcome to my profile!
+## Welcome to my profile!
 
 I am currently a Computer Science undergraduate, second year at Babes-Bolyai University Cluj-Napoca.
 
-<!--
-**spathula/spathula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Projects
+<a href = "https://github.com/spathula/UBB">
+  <img src = "https://github-readme-stats.vercel.app/api/pin/?username=spathula&repo=UBB&theme=dark" align = "center" />
+</a>
+<a href = "https://github.com/spathula/atelierul_digital">
+  <img src = "https://github-readme-stats.vercel.app/api/pin/?username=spathula&repo=atelierul_digital&theme=dark" align = "center" />
+</a>
 
-Here are some ideas to get you started:
+## Stats
+<a href = "https://github.com/spathula?tab=repositories">
+  <img src = "https://github-readme-stats.vercel.app/api?username=spathula&count_private=true&show_icons=true&theme=dark&hide=stars,contribs" align = "center" />
+</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href = "https://github.com/spathula?tab=repositories">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=spathula&langs_count=10&theme=dark&layout=compact" align = "center" />
+</a>
