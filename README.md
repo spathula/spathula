@@ -7,7 +7,6 @@ I am currently a Computer Science undergraduate, second year at Babes-Bolyai Uni
   <img src = "https://github-readme-stats.vercel.app/api/pin/?username=spathula&repo=UBB&theme=dark" align = "center" />
 </a>
 <a href = "https://github.com/spathula/atelierul_digital">
-  <img src = "https://github-readme-stats.vercel.app/api/pin/?username=spathula&repo=atelierul_digital&theme=dark" align = "center" />
 </a>
 
 ## Stats
