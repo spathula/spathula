@@ -1,6 +1,6 @@
 ## Welcome to my profile!
 
-I am currently a Computer Science undergraduate, second year at Babes-Bolyai University Cluj-Napoca.
+I am currently a Computer Science undergraduate, final year at Babes-Bolyai University Cluj-Napoca.
 
 ## Stats
 <a href = "https://github.com/spathula?tab=repositories">
