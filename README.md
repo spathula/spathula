@@ -1,6 +1,6 @@
 ## Welcome to my profile!
 
-I am currently a Computer Science undergraduate, final year at Babes-Bolyai University Cluj-Napoca.
+I am a Computer Science graduate at Babes-Bolyai University Cluj-Napoca, currently working as a full-stack developer at msg Systems Romania.
 
 ## Stats
 <a href = "https://github.com/spathula?tab=repositories">
